@@ -1,8 +1,8 @@
 # BC_HW3_Passord_Generator
 
-Welcome to my repository! This reposityory was created to show my knowledge in Javascript by creating a password generator that will create a password based on the prompt & confirm responses submitted by a user.
+Welcome to my repository! This repository was created to show my knowledge in Javascript by creating a password generator that will create a password based on the prompt & confirm responses submitted by a user.
 
-[Passowrd Generator](https://02dade12.github.io/BC_HW3_Passord_Generator/)
+[Password Generator](https://02dade12.github.io/BC_HW3_Passord_Generator/)
 
 ## Screenshot of Steps & Functionality below
 
